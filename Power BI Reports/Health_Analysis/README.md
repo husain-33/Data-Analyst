@@ -1,24 +1,25 @@
-This project presents a comprehensive healthcare analytics dashboard built using Power BI. It provides key insights into patient demographics, medical conditions, test results, insurance usage, and billing patterns based on real or simulated hospital data.
+HealthCare Analysis Dashboard – Power BI Project
+An interactive Power BI dashboard designed to analyze hospital data including patient demographics, medical conditions, medication usage, doctor billing, and financial trends. This project enables healthcare stakeholders to make informed, data-driven decisions.
 
-Dashboard Highlights:
-Gender Distribution: Pie chart showing the count and percentage of male and female patients.
+Problem Statement
+Healthcare organizations often struggle to extract actionable insights from complex patient and billing data spread across various departments. Without a centralized view, it's difficult to monitor treatment outcomes, financial performance, or operational bottlenecks such as doctor efficiency and medication trends.
 
-Admission Types: Bar chart comparing Elective, Urgent, and Emergency admission types.
+Solution
+This Power BI dashboard connects to a structured patient dataset and provides real-time visual insights across key metrics:
+Patient Demographics: Age, gender distribution, common blood types.
+Medical Overview: Most common conditions, average stay duration.
+Financial Insights: Monthly billing trends, MoM growth (with conditional formatting), doctor-wise billing, and medication cost analysis.
+Operational Metrics: Correlation between hospital stay length and billing amount, top 10 highest-paid doctors.
+Interactive Slicers for Age, Medication, Year, and Admission Type.
 
-Medical Conditions: Line chart visualizing the count of patients for conditions like Cancer, Diabetes, Asthma, etc.
+Impact
+Enabled data-driven decision-making for billing optimization and resource planning.
+Identified high-burden conditions like Arthritis and their associated costs and treatment durations.
+Helped visualize cost correlations between patient stay duration and total billing, improving forecast accuracy.
+Delivered clear insights into monthly billing fluctuations, improving financial oversight.
 
-Insurance Providers: Bar chart highlighting the most commonly used insurance companies (e.g., Medicare, Blue Cross).
+Tools Used
+Power BI
+DAX (Data Analysis Expressions)
+Power Query (M language)
 
-Average Stay Duration: Chart showing the average number of hospital days per medical condition.
-
-Test Results: Bar chart categorizing patient test results as Abnormal, Normal, or Inconclusive.
-
-Key Metrics:
-
-Total Billing Amount: ₹5 Million
-
-Total Patients: 193
-
-Average Patient Age: 52
-
-Medication Types: Slicer for filtering dashboard based on medication usage.

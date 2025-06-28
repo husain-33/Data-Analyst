@@ -1,65 +1,65 @@
-HR Dashboard Analysis – Power BI Project
+# 🧠 HR Analytics Dashboard (Power BI)
 
-This interactive HR Dashboard provides valuable insights into employee performance, satisfaction, attrition, and departmental trends using Power BI. Designed for HR teams and business analysts, the dashboard visualizes key HR metrics to support data-driven decision-making.
+🚨 **Employee attrition is a growing concern for organizations** — leading to higher recruitment costs, reduced productivity, and operational disruptions. To help HR teams gain actionable insights, I created this interactive HR Dashboard in Power BI.
 
- Dashboard Highlights:
+---
 
-Key Performance Indicators (KPIs):
+## ✅ Problem Statement
 
-  *  Average Monthly Hours
-  *  Total Employees
-  *  Total Employees Left
+Employee attrition is a major concern for organizations as it leads to increased recruitment costs, decreased morale, and loss of productivity.  
+HR departments struggle to understand the underlying causes of attrition and how different factors like department, satisfaction level, project load, and working hours contribute to employee churn.
 
-Visual Insights:
+---
 
- Departmental Performance
+## 💡 Solution
 
-    * Projects completed by top departments
-    * Average satisfaction levels by department
-    * Time spent in company distribution
+This interactive **Power BI HR Dashboard** was created to visualize and analyze employee attrition data. It brings together multiple HR metrics including:
 
-  Attrition Analysis
+- Attrition rate and satisfaction levels  
+- Department-wise employee distribution and attrition  
+- Average monthly working hours and promotions  
+- Employees who left vs. stayed  
+- Relationship between time spent and satisfaction  
+- Project load across departments  
 
-    * Employees left by department and salary tier
-    * Salary-wise distribution of attrition
+With visual storytelling using bar charts, pie charts, and line graphs, this dashboard enables HR teams to identify trends and take data-driven actions to improve employee retention.
 
-  Salary Distribution
+---
 
-    * Pie chart representation of salary levels across the organization (Low, Medium, High)
+## 🚀 Impact
 
-  Matrix Table:
+- ✅ Identified **sales department** as the one with the highest attrition rate.  
+- ✅ Highlighted **low satisfaction** and **high workload** as major factors behind employees leaving.  
+- ✅ Helped recognize that employees with **high satisfaction and fewer hours** are more likely to stay.  
+- ✅ Enabled **data-driven HR decisions** by visualizing attrition across departments, satisfaction levels, and project assignments.  
+- ✅ Improved **strategic workforce planning** and retention initiatives by pinpointing problem areas.  
 
-    * Department-wise employee count segmented by salary levels
-
-  Interactivity Features:
-
-    Salary-level filters (High, Medium, Low) for dynamic dashboard filtering
-    Tooltips for additional context on hover
-    Easy drill-down capability for in-depth analysis
-  
-Dataset:
-
- The dashboard is built on an anonymized HR dataset containing 15,000 records with fields such as:
-
-* Satisfaction level
-* Last evaluation score
-* Number of projects
-* Average monthly hours
-* Department
-* Salary level
-* Attrition status
-* Promotion and work accident history
-
-Purpose:
-
- This dashboard helps HR teams:
-
- * Identify departments with high turnover
- * Correlate satisfaction and performance
- * Analyze salary impact on attrition
- * Optimize workforce planning and employee engagement strategies
+---
 
 
+## 🛠 Tools & Technologies
 
+- Power BI (Visualizations, DAX, Power Query)  
+- Data Modeling & Relationships  
+- Data Cleansing & Transformation  
+- Custom KPIs & Drill-down Reports  
+
+---
+
+## 📂 Dataset
+
+This project uses a sample HR dataset containing:
+
+- Satisfaction Level  
+- Last Evaluation Score  
+- Average Monthly Hours  
+- Number of Projects  
+- Salary Level  
+- Department  
+- Attrition Status  
+
+---
+
+## 🔗 Feel free to fork, clone, and customize this dashboard for your own use!
 
 

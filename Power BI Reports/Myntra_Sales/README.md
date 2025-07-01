@@ -1,74 +1,48 @@
 🛍️ Myntra Sales Dashboard – Power BI Project
-This project showcases an interactive Power BI dashboard built using a real-world styled dataset representing sales data from Myntra, a major Indian e-commerce fashion retailer.
 
-📌 Project Objective
-To create a visually appealing and insightful dashboard that helps stakeholders:
 
-Understand sales performance by brand, category, sub-category
 
-Track monthly revenue trends
+**🧩 Problem Statement
+Myntra, a leading fashion e-commerce platform, had access to large volumes of customer, product, and sales data across diverse categories (Men, Women, Kids, Beauty). However, they lacked a unified, interactive view to:
 
-Analyze state-wise and city-wise order distribution
+Understand top-performing brands and subcategories.
 
-View customer behavior like average age and ratings
+Track revenue trends by category, brand, and region.
 
-📊 Dashboard Features
-Filters: Slicers for State, Month, and Year
+Analyze customer behavior (age, ratings, monthly orders).
 
-KPIs: Sum of Net Price, Average Ratings, Average Customer Age
+Enable data-driven decisions for business growth and inventory strategy.
 
-Visuals:
+🛠 Solution
+Developed a comprehensive Power BI dashboard with the following features:
 
-Bar charts for top brands and states
+Central Overview Dashboard highlighting total revenue, top brand, average customer age & ratings.
 
-Line chart for revenue trends over months
+Category-specific Drilldowns (Men, Women, Kids):
 
-Pie chart for category-wise price distribution
+Revenue by sub-category and brand.
 
-Tree map for sub-category analysis
+Monthly order trends.
 
-Map visual for city-wise sales
+Brand-wise and state-wise performance.
 
-Color Scheme: Designed using a premium color palette to complement Myntra’s brand style (Baby Pink, Deep Blue, Mustard Yellow, Plum, etc.)
+Interactive Filters for state and city segmentation.
 
-🛠️ Tools Used
-Power BI Desktop
+Clean and responsive visual layout with actionable KPIs.
 
-Microsoft Excel (for data cleaning and pre-processing)
+📈 Impact
+📊 $2M in total revenue tracked, with top insights into category distribution:
 
-📁 Dataset
-The dataset includes columns such as:
+Men's category leads with $586K, followed by Women and Kids.
 
-Order ID
+🧠 Enhanced decision-making:
 
-Brand
+Identified Puma, Roadster, and H&M as top-performing brands by segment.
 
-Category, Sub-Category
+Revealed regional performance (e.g., Gujarat, Punjab, Bihar as revenue leaders).
 
-Price, Net Price
+⏱ Time saved: Instant access to data trends that previously required manual reports.
 
-Rating
-
-State, City
-
-Order Date
-
-Customer Age
-
-Note: The data has been anonymized and cleaned for visualization purposes.
-
-🚀 Getting Started
-Clone this repository
-
-Open the .pbix file in Power BI Desktop
-
-Explore the visuals or customize them as needed
-
-📷 Preview
-
-📢 Let's Connect
-If you found this useful or want to collaborate on similar analytics projects, feel free to reach out!
-
-Keywords: Power BI, Myntra, Data Visualization, Sales Dashboard, Retail Analytics, Data Analysis, Business Intelligence, BI Project
+📉 Detected order volume decline trends month-over-month—crucial for marketing and inventory planning.**
 
 

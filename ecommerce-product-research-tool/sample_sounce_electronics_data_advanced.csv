@@ -1,0 +1,481 @@
+Date,Product,Category,Selling_Price,Cost_Price,Units_Sold,Units_Returned,Rating,Competitor_Price,Review_Text
+2026-01-01,65W Fast Charger,Chargers,899,520,36,1,4.5,849,fast charging is excellent
+2026-01-01,Type-C Braided Cable,Cables,249,95,45,5,4.0,219,durable cable
+2026-01-01,Laptop Stand,Laptop Accessories,699,410,22,0,4.7,749,very sturdy
+2026-01-01,Car Charger,Car Accessories,499,290,15,1,3.4,399,heating issue
+2026-01-01,Bike Mobile Holder,Mobile Accessories,349,150,26,1,4.2,299,good grip
+2026-01-01,USB Hub 4 Port,Laptop Accessories,799,480,28,3,4.1,849,useful product
+2026-01-01,Wireless Charger,Chargers,1199,760,34,4,3.8,1099,looks premium
+2026-01-01,HDMI Cable,Cables,399,160,32,1,4.3,349,clear display
+2026-01-02,65W Fast Charger,Chargers,899,520,38,1,4.5,849,heating issue sometimes
+2026-01-02,Type-C Braided Cable,Cables,249,95,47,6,4.0,219,charging speed good
+2026-01-02,Laptop Stand,Laptop Accessories,699,410,24,0,4.7,749,good for work from home
+2026-01-02,Car Charger,Car Accessories,499,290,17,2,3.4,399,slow charging
+2026-01-02,Bike Mobile Holder,Mobile Accessories,349,150,28,1,4.2,299,useful for delivery riders
+2026-01-02,USB Hub 4 Port,Laptop Accessories,799,480,30,3,4.1,849,works with laptop
+2026-01-02,Wireless Charger,Chargers,1199,760,36,4,3.8,1099,slow charging
+2026-01-02,HDMI Cable,Cables,399,160,34,1,4.3,349,good quality cable
+2026-01-03,65W Fast Charger,Chargers,899,520,40,1,4.5,849,good build quality
+2026-01-03,Type-C Braided Cable,Cables,249,95,49,6,4.0,219,stopped working after few days
+2026-01-03,Laptop Stand,Laptop Accessories,699,410,26,1,4.7,749,premium quality
+2026-01-03,Car Charger,Car Accessories,499,290,19,2,3.4,399,not worth price
+2026-01-03,Bike Mobile Holder,Mobile Accessories,349,150,30,1,4.2,299,plastic quality okay
+2026-01-03,USB Hub 4 Port,Laptop Accessories,799,480,32,4,4.1,849,slight heating
+2026-01-03,Wireless Charger,Chargers,1199,760,38,4,3.8,1099,phone heats
+2026-01-03,HDMI Cable,Cables,399,160,36,1,4.3,349,value for money
+2026-01-04,65W Fast Charger,Chargers,899,520,42,1,4.5,849,fast charging is excellent
+2026-01-04,Type-C Braided Cable,Cables,249,95,51,6,4.0,219,durable cable
+2026-01-04,Laptop Stand,Laptop Accessories,699,410,28,1,4.7,749,very sturdy
+2026-01-04,Car Charger,Car Accessories,499,290,21,2,3.4,399,heating issue
+2026-01-04,Bike Mobile Holder,Mobile Accessories,349,150,32,1,4.2,299,good grip
+2026-01-04,USB Hub 4 Port,Laptop Accessories,799,480,34,4,4.1,849,useful product
+2026-01-04,Wireless Charger,Chargers,1199,760,40,5,3.8,1099,looks premium
+2026-01-04,HDMI Cable,Cables,399,160,38,1,4.3,349,clear display
+2026-01-05,65W Fast Charger,Chargers,899,520,44,1,4.5,849,heating issue sometimes
+2026-01-05,Type-C Braided Cable,Cables,249,95,53,6,4.0,219,charging speed good
+2026-01-05,Laptop Stand,Laptop Accessories,699,410,30,1,4.7,749,good for work from home
+2026-01-05,Car Charger,Car Accessories,499,290,23,2,3.4,399,slow charging
+2026-01-05,Bike Mobile Holder,Mobile Accessories,349,150,34,1,4.2,299,useful for delivery riders
+2026-01-05,USB Hub 4 Port,Laptop Accessories,799,480,36,4,4.1,849,works with laptop
+2026-01-05,Wireless Charger,Chargers,1199,760,42,5,3.8,1099,slow charging
+2026-01-05,HDMI Cable,Cables,399,160,40,1,4.3,349,good quality cable
+2026-01-06,65W Fast Charger,Chargers,899,520,46,1,4.5,849,good build quality
+2026-01-06,Type-C Braided Cable,Cables,249,95,55,7,4.0,219,stopped working after few days
+2026-01-06,Laptop Stand,Laptop Accessories,699,410,32,1,4.7,749,premium quality
+2026-01-06,Car Charger,Car Accessories,499,290,25,3,3.4,399,not worth price
+2026-01-06,Bike Mobile Holder,Mobile Accessories,349,150,36,1,4.2,299,plastic quality okay
+2026-01-06,USB Hub 4 Port,Laptop Accessories,799,480,38,4,4.1,849,slight heating
+2026-01-06,Wireless Charger,Chargers,1199,760,44,5,3.8,1099,phone heats
+2026-01-06,HDMI Cable,Cables,399,160,42,1,4.3,349,value for money
+2026-01-07,65W Fast Charger,Chargers,899,520,48,1,4.5,849,fast charging is excellent
+2026-01-07,Type-C Braided Cable,Cables,249,95,57,7,4.0,219,durable cable
+2026-01-07,Laptop Stand,Laptop Accessories,699,410,34,1,4.7,749,very sturdy
+2026-01-07,Car Charger,Car Accessories,499,290,27,3,3.4,399,heating issue
+2026-01-07,Bike Mobile Holder,Mobile Accessories,349,150,38,1,4.2,299,good grip
+2026-01-07,USB Hub 4 Port,Laptop Accessories,799,480,40,5,4.1,849,useful product
+2026-01-07,Wireless Charger,Chargers,1199,760,46,5,3.8,1099,looks premium
+2026-01-07,HDMI Cable,Cables,399,160,44,1,4.3,349,clear display
+2026-01-08,65W Fast Charger,Chargers,899,520,50,2,4.5,849,heating issue sometimes
+2026-01-08,Type-C Braided Cable,Cables,249,95,59,7,4.0,219,charging speed good
+2026-01-08,Laptop Stand,Laptop Accessories,699,410,36,1,4.7,749,good for work from home
+2026-01-08,Car Charger,Car Accessories,499,290,29,3,3.4,399,slow charging
+2026-01-08,Bike Mobile Holder,Mobile Accessories,349,150,40,1,4.2,299,useful for delivery riders
+2026-01-08,USB Hub 4 Port,Laptop Accessories,799,480,42,5,4.1,849,works with laptop
+2026-01-08,Wireless Charger,Chargers,1199,760,48,6,3.8,1099,slow charging
+2026-01-08,HDMI Cable,Cables,399,160,46,1,4.3,349,good quality cable
+2026-01-09,65W Fast Charger,Chargers,899,520,52,2,4.5,849,good build quality
+2026-01-09,Type-C Braided Cable,Cables,249,95,61,7,4.0,219,stopped working after few days
+2026-01-09,Laptop Stand,Laptop Accessories,699,410,38,1,4.7,749,premium quality
+2026-01-09,Car Charger,Car Accessories,499,290,31,4,3.4,399,not worth price
+2026-01-09,Bike Mobile Holder,Mobile Accessories,349,150,42,1,4.2,299,plastic quality okay
+2026-01-09,USB Hub 4 Port,Laptop Accessories,799,480,44,5,4.1,849,slight heating
+2026-01-09,Wireless Charger,Chargers,1199,760,50,6,3.8,1099,phone heats
+2026-01-09,HDMI Cable,Cables,399,160,48,1,4.3,349,value for money
+2026-01-10,65W Fast Charger,Chargers,899,520,54,2,4.5,849,fast charging is excellent
+2026-01-10,Type-C Braided Cable,Cables,249,95,63,8,4.0,219,durable cable
+2026-01-10,Laptop Stand,Laptop Accessories,699,410,40,1,4.7,749,very sturdy
+2026-01-10,Car Charger,Car Accessories,499,290,33,4,3.4,399,heating issue
+2026-01-10,Bike Mobile Holder,Mobile Accessories,349,150,44,1,4.2,299,good grip
+2026-01-10,USB Hub 4 Port,Laptop Accessories,799,480,46,5,4.1,849,useful product
+2026-01-10,Wireless Charger,Chargers,1199,760,52,6,3.8,1099,looks premium
+2026-01-10,HDMI Cable,Cables,399,160,50,2,4.3,349,clear display
+2026-01-11,65W Fast Charger,Chargers,899,520,36,1,4.5,849,heating issue sometimes
+2026-01-11,Type-C Braided Cable,Cables,249,95,45,5,4.0,219,charging speed good
+2026-01-11,Laptop Stand,Laptop Accessories,699,410,22,0,4.7,749,good for work from home
+2026-01-11,Car Charger,Car Accessories,499,290,15,1,3.4,399,slow charging
+2026-01-11,Bike Mobile Holder,Mobile Accessories,349,150,26,1,4.2,299,useful for delivery riders
+2026-01-11,USB Hub 4 Port,Laptop Accessories,799,480,28,3,4.1,849,works with laptop
+2026-01-11,Wireless Charger,Chargers,1199,760,34,4,3.8,1099,slow charging
+2026-01-11,HDMI Cable,Cables,399,160,32,1,4.3,349,good quality cable
+2026-01-12,65W Fast Charger,Chargers,899,520,38,1,4.5,849,good build quality
+2026-01-12,Type-C Braided Cable,Cables,249,95,47,6,4.0,219,stopped working after few days
+2026-01-12,Laptop Stand,Laptop Accessories,699,410,24,0,4.7,749,premium quality
+2026-01-12,Car Charger,Car Accessories,499,290,17,2,3.4,399,not worth price
+2026-01-12,Bike Mobile Holder,Mobile Accessories,349,150,28,1,4.2,299,plastic quality okay
+2026-01-12,USB Hub 4 Port,Laptop Accessories,799,480,30,3,4.1,849,slight heating
+2026-01-12,Wireless Charger,Chargers,1199,760,36,4,3.8,1099,phone heats
+2026-01-12,HDMI Cable,Cables,399,160,34,1,4.3,349,value for money
+2026-01-13,65W Fast Charger,Chargers,899,520,40,1,4.5,849,fast charging is excellent
+2026-01-13,Type-C Braided Cable,Cables,249,95,49,6,4.0,219,durable cable
+2026-01-13,Laptop Stand,Laptop Accessories,699,410,26,1,4.7,749,very sturdy
+2026-01-13,Car Charger,Car Accessories,499,290,19,2,3.4,399,heating issue
+2026-01-13,Bike Mobile Holder,Mobile Accessories,349,150,30,1,4.2,299,good grip
+2026-01-13,USB Hub 4 Port,Laptop Accessories,799,480,32,4,4.1,849,useful product
+2026-01-13,Wireless Charger,Chargers,1199,760,38,4,3.8,1099,looks premium
+2026-01-13,HDMI Cable,Cables,399,160,36,1,4.3,349,clear display
+2026-01-14,65W Fast Charger,Chargers,899,520,42,1,4.5,849,heating issue sometimes
+2026-01-14,Type-C Braided Cable,Cables,249,95,51,6,4.0,219,charging speed good
+2026-01-14,Laptop Stand,Laptop Accessories,699,410,28,1,4.7,749,good for work from home
+2026-01-14,Car Charger,Car Accessories,499,290,21,2,3.4,399,slow charging
+2026-01-14,Bike Mobile Holder,Mobile Accessories,349,150,32,1,4.2,299,useful for delivery riders
+2026-01-14,USB Hub 4 Port,Laptop Accessories,799,480,34,4,4.1,849,works with laptop
+2026-01-14,Wireless Charger,Chargers,1199,760,40,5,3.8,1099,slow charging
+2026-01-14,HDMI Cable,Cables,399,160,38,1,4.3,349,good quality cable
+2026-01-15,65W Fast Charger,Chargers,899,520,44,1,4.5,849,good build quality
+2026-01-15,Type-C Braided Cable,Cables,249,95,53,6,4.0,219,stopped working after few days
+2026-01-15,Laptop Stand,Laptop Accessories,699,410,30,1,4.7,749,premium quality
+2026-01-15,Car Charger,Car Accessories,499,290,23,2,3.4,399,not worth price
+2026-01-15,Bike Mobile Holder,Mobile Accessories,349,150,34,1,4.2,299,plastic quality okay
+2026-01-15,USB Hub 4 Port,Laptop Accessories,799,480,36,4,4.1,849,slight heating
+2026-01-15,Wireless Charger,Chargers,1199,760,42,5,3.8,1099,phone heats
+2026-01-15,HDMI Cable,Cables,399,160,40,1,4.3,349,value for money
+2026-01-16,65W Fast Charger,Chargers,899,520,46,1,4.5,849,fast charging is excellent
+2026-01-16,Type-C Braided Cable,Cables,249,95,55,7,4.0,219,durable cable
+2026-01-16,Laptop Stand,Laptop Accessories,699,410,32,1,4.7,749,very sturdy
+2026-01-16,Car Charger,Car Accessories,499,290,25,3,3.4,399,heating issue
+2026-01-16,Bike Mobile Holder,Mobile Accessories,349,150,36,1,4.2,299,good grip
+2026-01-16,USB Hub 4 Port,Laptop Accessories,799,480,38,4,4.1,849,useful product
+2026-01-16,Wireless Charger,Chargers,1199,760,44,5,3.8,1099,looks premium
+2026-01-16,HDMI Cable,Cables,399,160,42,1,4.3,349,clear display
+2026-01-17,65W Fast Charger,Chargers,899,520,48,1,4.5,849,heating issue sometimes
+2026-01-17,Type-C Braided Cable,Cables,249,95,57,7,4.0,219,charging speed good
+2026-01-17,Laptop Stand,Laptop Accessories,699,410,34,1,4.7,749,good for work from home
+2026-01-17,Car Charger,Car Accessories,499,290,27,3,3.4,399,slow charging
+2026-01-17,Bike Mobile Holder,Mobile Accessories,349,150,38,1,4.2,299,useful for delivery riders
+2026-01-17,USB Hub 4 Port,Laptop Accessories,799,480,40,5,4.1,849,works with laptop
+2026-01-17,Wireless Charger,Chargers,1199,760,46,5,3.8,1099,slow charging
+2026-01-17,HDMI Cable,Cables,399,160,44,1,4.3,349,good quality cable
+2026-01-18,65W Fast Charger,Chargers,899,520,50,2,4.5,849,good build quality
+2026-01-18,Type-C Braided Cable,Cables,249,95,59,7,4.0,219,stopped working after few days
+2026-01-18,Laptop Stand,Laptop Accessories,699,410,36,1,4.7,749,premium quality
+2026-01-18,Car Charger,Car Accessories,499,290,29,3,3.4,399,not worth price
+2026-01-18,Bike Mobile Holder,Mobile Accessories,349,150,40,1,4.2,299,plastic quality okay
+2026-01-18,USB Hub 4 Port,Laptop Accessories,799,480,42,5,4.1,849,slight heating
+2026-01-18,Wireless Charger,Chargers,1199,760,48,6,3.8,1099,phone heats
+2026-01-18,HDMI Cable,Cables,399,160,46,1,4.3,349,value for money
+2026-01-19,65W Fast Charger,Chargers,899,520,52,2,4.5,849,fast charging is excellent
+2026-01-19,Type-C Braided Cable,Cables,249,95,61,7,4.0,219,durable cable
+2026-01-19,Laptop Stand,Laptop Accessories,699,410,38,1,4.7,749,very sturdy
+2026-01-19,Car Charger,Car Accessories,499,290,31,4,3.4,399,heating issue
+2026-01-19,Bike Mobile Holder,Mobile Accessories,349,150,42,1,4.2,299,good grip
+2026-01-19,USB Hub 4 Port,Laptop Accessories,799,480,44,5,4.1,849,useful product
+2026-01-19,Wireless Charger,Chargers,1199,760,50,6,3.8,1099,looks premium
+2026-01-19,HDMI Cable,Cables,399,160,48,1,4.3,349,clear display
+2026-01-20,65W Fast Charger,Chargers,899,520,54,2,4.5,849,heating issue sometimes
+2026-01-20,Type-C Braided Cable,Cables,249,95,63,8,4.0,219,charging speed good
+2026-01-20,Laptop Stand,Laptop Accessories,699,410,40,1,4.7,749,good for work from home
+2026-01-20,Car Charger,Car Accessories,499,290,33,4,3.4,399,slow charging
+2026-01-20,Bike Mobile Holder,Mobile Accessories,349,150,44,1,4.2,299,useful for delivery riders
+2026-01-20,USB Hub 4 Port,Laptop Accessories,799,480,46,5,4.1,849,works with laptop
+2026-01-20,Wireless Charger,Chargers,1199,760,52,6,3.8,1099,slow charging
+2026-01-20,HDMI Cable,Cables,399,160,50,2,4.3,349,good quality cable
+2026-01-21,65W Fast Charger,Chargers,899,520,36,1,4.5,849,good build quality
+2026-01-21,Type-C Braided Cable,Cables,249,95,45,5,4.0,219,stopped working after few days
+2026-01-21,Laptop Stand,Laptop Accessories,699,410,22,0,4.7,749,premium quality
+2026-01-21,Car Charger,Car Accessories,499,290,15,1,3.4,399,not worth price
+2026-01-21,Bike Mobile Holder,Mobile Accessories,349,150,26,1,4.2,299,plastic quality okay
+2026-01-21,USB Hub 4 Port,Laptop Accessories,799,480,28,3,4.1,849,slight heating
+2026-01-21,Wireless Charger,Chargers,1199,760,34,4,3.8,1099,phone heats
+2026-01-21,HDMI Cable,Cables,399,160,32,1,4.3,349,value for money
+2026-01-22,65W Fast Charger,Chargers,899,520,38,1,4.5,849,fast charging is excellent
+2026-01-22,Type-C Braided Cable,Cables,249,95,47,6,4.0,219,durable cable
+2026-01-22,Laptop Stand,Laptop Accessories,699,410,24,0,4.7,749,very sturdy
+2026-01-22,Car Charger,Car Accessories,499,290,17,2,3.4,399,heating issue
+2026-01-22,Bike Mobile Holder,Mobile Accessories,349,150,28,1,4.2,299,good grip
+2026-01-22,USB Hub 4 Port,Laptop Accessories,799,480,30,3,4.1,849,useful product
+2026-01-22,Wireless Charger,Chargers,1199,760,36,4,3.8,1099,looks premium
+2026-01-22,HDMI Cable,Cables,399,160,34,1,4.3,349,clear display
+2026-01-23,65W Fast Charger,Chargers,899,520,40,1,4.5,849,heating issue sometimes
+2026-01-23,Type-C Braided Cable,Cables,249,95,49,6,4.0,219,charging speed good
+2026-01-23,Laptop Stand,Laptop Accessories,699,410,26,1,4.7,749,good for work from home
+2026-01-23,Car Charger,Car Accessories,499,290,19,2,3.4,399,slow charging
+2026-01-23,Bike Mobile Holder,Mobile Accessories,349,150,30,1,4.2,299,useful for delivery riders
+2026-01-23,USB Hub 4 Port,Laptop Accessories,799,480,32,4,4.1,849,works with laptop
+2026-01-23,Wireless Charger,Chargers,1199,760,38,4,3.8,1099,slow charging
+2026-01-23,HDMI Cable,Cables,399,160,36,1,4.3,349,good quality cable
+2026-01-24,65W Fast Charger,Chargers,899,520,42,1,4.5,849,good build quality
+2026-01-24,Type-C Braided Cable,Cables,249,95,51,6,4.0,219,stopped working after few days
+2026-01-24,Laptop Stand,Laptop Accessories,699,410,28,1,4.7,749,premium quality
+2026-01-24,Car Charger,Car Accessories,499,290,21,2,3.4,399,not worth price
+2026-01-24,Bike Mobile Holder,Mobile Accessories,349,150,32,1,4.2,299,plastic quality okay
+2026-01-24,USB Hub 4 Port,Laptop Accessories,799,480,34,4,4.1,849,slight heating
+2026-01-24,Wireless Charger,Chargers,1199,760,40,5,3.8,1099,phone heats
+2026-01-24,HDMI Cable,Cables,399,160,38,1,4.3,349,value for money
+2026-01-25,65W Fast Charger,Chargers,899,520,44,1,4.5,849,fast charging is excellent
+2026-01-25,Type-C Braided Cable,Cables,249,95,53,6,4.0,219,durable cable
+2026-01-25,Laptop Stand,Laptop Accessories,699,410,30,1,4.7,749,very sturdy
+2026-01-25,Car Charger,Car Accessories,499,290,23,2,3.4,399,heating issue
+2026-01-25,Bike Mobile Holder,Mobile Accessories,349,150,34,1,4.2,299,good grip
+2026-01-25,USB Hub 4 Port,Laptop Accessories,799,480,36,4,4.1,849,useful product
+2026-01-25,Wireless Charger,Chargers,1199,760,42,5,3.8,1099,looks premium
+2026-01-25,HDMI Cable,Cables,399,160,40,1,4.3,349,clear display
+2026-01-26,65W Fast Charger,Chargers,899,520,46,1,4.5,849,heating issue sometimes
+2026-01-26,Type-C Braided Cable,Cables,249,95,55,7,4.0,219,charging speed good
+2026-01-26,Laptop Stand,Laptop Accessories,699,410,32,1,4.7,749,good for work from home
+2026-01-26,Car Charger,Car Accessories,499,290,25,3,3.4,399,slow charging
+2026-01-26,Bike Mobile Holder,Mobile Accessories,349,150,36,1,4.2,299,useful for delivery riders
+2026-01-26,USB Hub 4 Port,Laptop Accessories,799,480,38,4,4.1,849,works with laptop
+2026-01-26,Wireless Charger,Chargers,1199,760,44,5,3.8,1099,slow charging
+2026-01-26,HDMI Cable,Cables,399,160,42,1,4.3,349,good quality cable
+2026-01-27,65W Fast Charger,Chargers,899,520,48,1,4.5,849,good build quality
+2026-01-27,Type-C Braided Cable,Cables,249,95,57,7,4.0,219,stopped working after few days
+2026-01-27,Laptop Stand,Laptop Accessories,699,410,34,1,4.7,749,premium quality
+2026-01-27,Car Charger,Car Accessories,499,290,27,3,3.4,399,not worth price
+2026-01-27,Bike Mobile Holder,Mobile Accessories,349,150,38,1,4.2,299,plastic quality okay
+2026-01-27,USB Hub 4 Port,Laptop Accessories,799,480,40,5,4.1,849,slight heating
+2026-01-27,Wireless Charger,Chargers,1199,760,46,5,3.8,1099,phone heats
+2026-01-27,HDMI Cable,Cables,399,160,44,1,4.3,349,value for money
+2026-01-28,65W Fast Charger,Chargers,899,520,50,2,4.5,849,fast charging is excellent
+2026-01-28,Type-C Braided Cable,Cables,249,95,59,7,4.0,219,durable cable
+2026-01-28,Laptop Stand,Laptop Accessories,699,410,36,1,4.7,749,very sturdy
+2026-01-28,Car Charger,Car Accessories,499,290,29,3,3.4,399,heating issue
+2026-01-28,Bike Mobile Holder,Mobile Accessories,349,150,40,1,4.2,299,good grip
+2026-01-28,USB Hub 4 Port,Laptop Accessories,799,480,42,5,4.1,849,useful product
+2026-01-28,Wireless Charger,Chargers,1199,760,48,6,3.8,1099,looks premium
+2026-01-28,HDMI Cable,Cables,399,160,46,1,4.3,349,clear display
+2026-01-29,65W Fast Charger,Chargers,899,520,52,2,4.5,849,heating issue sometimes
+2026-01-29,Type-C Braided Cable,Cables,249,95,61,7,4.0,219,charging speed good
+2026-01-29,Laptop Stand,Laptop Accessories,699,410,38,1,4.7,749,good for work from home
+2026-01-29,Car Charger,Car Accessories,499,290,31,4,3.4,399,slow charging
+2026-01-29,Bike Mobile Holder,Mobile Accessories,349,150,42,1,4.2,299,useful for delivery riders
+2026-01-29,USB Hub 4 Port,Laptop Accessories,799,480,44,5,4.1,849,works with laptop
+2026-01-29,Wireless Charger,Chargers,1199,760,50,6,3.8,1099,slow charging
+2026-01-29,HDMI Cable,Cables,399,160,48,1,4.3,349,good quality cable
+2026-01-30,65W Fast Charger,Chargers,899,520,54,2,4.5,849,good build quality
+2026-01-30,Type-C Braided Cable,Cables,249,95,63,8,4.0,219,stopped working after few days
+2026-01-30,Laptop Stand,Laptop Accessories,699,410,40,1,4.7,749,premium quality
+2026-01-30,Car Charger,Car Accessories,499,290,33,4,3.4,399,not worth price
+2026-01-30,Bike Mobile Holder,Mobile Accessories,349,150,44,1,4.2,299,plastic quality okay
+2026-01-30,USB Hub 4 Port,Laptop Accessories,799,480,46,5,4.1,849,slight heating
+2026-01-30,Wireless Charger,Chargers,1199,760,52,6,3.8,1099,phone heats
+2026-01-30,HDMI Cable,Cables,399,160,50,2,4.3,349,value for money
+2026-01-31,65W Fast Charger,Chargers,899,520,36,1,4.5,849,fast charging is excellent
+2026-01-31,Type-C Braided Cable,Cables,249,95,45,5,4.0,219,durable cable
+2026-01-31,Laptop Stand,Laptop Accessories,699,410,22,0,4.7,749,very sturdy
+2026-01-31,Car Charger,Car Accessories,499,290,15,1,3.4,399,heating issue
+2026-01-31,Bike Mobile Holder,Mobile Accessories,349,150,26,1,4.2,299,good grip
+2026-01-31,USB Hub 4 Port,Laptop Accessories,799,480,28,3,4.1,849,useful product
+2026-01-31,Wireless Charger,Chargers,1199,760,28,3,3.8,1099,looks premium
+2026-01-31,HDMI Cable,Cables,399,160,32,1,4.3,349,clear display
+2026-02-01,65W Fast Charger,Chargers,899,520,38,1,4.5,849,heating issue sometimes
+2026-02-01,Type-C Braided Cable,Cables,249,95,47,6,4.0,219,charging speed good
+2026-02-01,Laptop Stand,Laptop Accessories,699,410,24,0,4.7,749,good for work from home
+2026-02-01,Car Charger,Car Accessories,499,290,17,2,3.3,399,slow charging
+2026-02-01,Bike Mobile Holder,Mobile Accessories,349,150,28,1,4.2,299,useful for delivery riders
+2026-02-01,USB Hub 4 Port,Laptop Accessories,799,480,30,3,4.1,849,works with laptop
+2026-02-01,Wireless Charger,Chargers,1199,760,30,3,3.8,1099,slow charging
+2026-02-01,HDMI Cable,Cables,399,160,34,1,4.3,349,good quality cable
+2026-02-02,65W Fast Charger,Chargers,899,520,40,1,4.5,849,good build quality
+2026-02-02,Type-C Braided Cable,Cables,249,95,49,6,4.0,219,stopped working after few days
+2026-02-02,Laptop Stand,Laptop Accessories,699,410,26,1,4.7,749,premium quality
+2026-02-02,Car Charger,Car Accessories,499,290,19,2,3.3,399,not worth price
+2026-02-02,Bike Mobile Holder,Mobile Accessories,349,150,30,1,4.2,299,plastic quality okay
+2026-02-02,USB Hub 4 Port,Laptop Accessories,799,480,32,4,4.1,849,slight heating
+2026-02-02,Wireless Charger,Chargers,1199,760,32,4,3.8,1099,phone heats
+2026-02-02,HDMI Cable,Cables,399,160,36,1,4.3,349,value for money
+2026-02-03,65W Fast Charger,Chargers,899,520,42,1,4.5,849,fast charging is excellent
+2026-02-03,Type-C Braided Cable,Cables,249,95,51,6,4.0,219,durable cable
+2026-02-03,Laptop Stand,Laptop Accessories,699,410,28,1,4.7,749,very sturdy
+2026-02-03,Car Charger,Car Accessories,499,290,21,2,3.3,399,heating issue
+2026-02-03,Bike Mobile Holder,Mobile Accessories,349,150,32,1,4.2,299,good grip
+2026-02-03,USB Hub 4 Port,Laptop Accessories,799,480,34,4,4.1,849,useful product
+2026-02-03,Wireless Charger,Chargers,1199,760,34,4,3.8,1099,looks premium
+2026-02-03,HDMI Cable,Cables,399,160,38,1,4.3,349,clear display
+2026-02-04,65W Fast Charger,Chargers,899,520,44,1,4.5,849,heating issue sometimes
+2026-02-04,Type-C Braided Cable,Cables,249,95,53,6,4.0,219,charging speed good
+2026-02-04,Laptop Stand,Laptop Accessories,699,410,30,1,4.7,749,good for work from home
+2026-02-04,Car Charger,Car Accessories,499,290,23,2,3.3,399,slow charging
+2026-02-04,Bike Mobile Holder,Mobile Accessories,349,150,34,1,4.2,299,useful for delivery riders
+2026-02-04,USB Hub 4 Port,Laptop Accessories,799,480,36,4,4.1,849,works with laptop
+2026-02-04,Wireless Charger,Chargers,1199,760,36,4,3.8,1099,slow charging
+2026-02-04,HDMI Cable,Cables,399,160,40,1,4.3,349,good quality cable
+2026-02-05,65W Fast Charger,Chargers,899,520,46,1,4.5,849,good build quality
+2026-02-05,Type-C Braided Cable,Cables,249,95,55,7,4.0,219,stopped working after few days
+2026-02-05,Laptop Stand,Laptop Accessories,699,410,32,1,4.7,749,premium quality
+2026-02-05,Car Charger,Car Accessories,499,290,25,3,3.3,399,not worth price
+2026-02-05,Bike Mobile Holder,Mobile Accessories,349,150,36,1,4.2,299,plastic quality okay
+2026-02-05,USB Hub 4 Port,Laptop Accessories,799,480,38,4,4.1,849,slight heating
+2026-02-05,Wireless Charger,Chargers,1199,760,38,4,3.8,1099,phone heats
+2026-02-05,HDMI Cable,Cables,399,160,42,1,4.3,349,value for money
+2026-02-06,65W Fast Charger,Chargers,899,520,48,1,4.5,849,fast charging is excellent
+2026-02-06,Type-C Braided Cable,Cables,249,95,57,7,4.0,219,durable cable
+2026-02-06,Laptop Stand,Laptop Accessories,699,410,34,1,4.7,749,very sturdy
+2026-02-06,Car Charger,Car Accessories,499,290,27,3,3.3,399,heating issue
+2026-02-06,Bike Mobile Holder,Mobile Accessories,349,150,38,1,4.2,299,good grip
+2026-02-06,USB Hub 4 Port,Laptop Accessories,799,480,40,5,4.1,849,useful product
+2026-02-06,Wireless Charger,Chargers,1199,760,40,5,3.8,1099,looks premium
+2026-02-06,HDMI Cable,Cables,399,160,44,1,4.3,349,clear display
+2026-02-07,65W Fast Charger,Chargers,899,520,50,2,4.5,849,heating issue sometimes
+2026-02-07,Type-C Braided Cable,Cables,249,95,59,7,4.0,219,charging speed good
+2026-02-07,Laptop Stand,Laptop Accessories,699,410,36,1,4.7,749,good for work from home
+2026-02-07,Car Charger,Car Accessories,499,290,29,3,3.3,399,slow charging
+2026-02-07,Bike Mobile Holder,Mobile Accessories,349,150,40,1,4.2,299,useful for delivery riders
+2026-02-07,USB Hub 4 Port,Laptop Accessories,799,480,42,5,4.1,849,works with laptop
+2026-02-07,Wireless Charger,Chargers,1199,760,42,5,3.8,1099,slow charging
+2026-02-07,HDMI Cable,Cables,399,160,46,1,4.3,349,good quality cable
+2026-02-08,65W Fast Charger,Chargers,899,520,52,2,4.5,849,good build quality
+2026-02-08,Type-C Braided Cable,Cables,249,95,61,7,4.0,219,stopped working after few days
+2026-02-08,Laptop Stand,Laptop Accessories,699,410,38,1,4.7,749,premium quality
+2026-02-08,Car Charger,Car Accessories,499,290,31,4,3.3,399,not worth price
+2026-02-08,Bike Mobile Holder,Mobile Accessories,349,150,42,1,4.2,299,plastic quality okay
+2026-02-08,USB Hub 4 Port,Laptop Accessories,799,480,44,5,4.1,849,slight heating
+2026-02-08,Wireless Charger,Chargers,1199,760,44,5,3.8,1099,phone heats
+2026-02-08,HDMI Cable,Cables,399,160,48,1,4.3,349,value for money
+2026-02-09,65W Fast Charger,Chargers,899,520,54,2,4.5,849,fast charging is excellent
+2026-02-09,Type-C Braided Cable,Cables,249,95,63,8,4.0,219,durable cable
+2026-02-09,Laptop Stand,Laptop Accessories,699,410,40,1,4.7,749,very sturdy
+2026-02-09,Car Charger,Car Accessories,499,290,33,4,3.3,399,heating issue
+2026-02-09,Bike Mobile Holder,Mobile Accessories,349,150,44,1,4.2,299,good grip
+2026-02-09,USB Hub 4 Port,Laptop Accessories,799,480,46,5,4.1,849,useful product
+2026-02-09,Wireless Charger,Chargers,1199,760,46,5,3.8,1099,looks premium
+2026-02-09,HDMI Cable,Cables,399,160,50,2,4.3,349,clear display
+2026-02-10,65W Fast Charger,Chargers,899,520,36,1,4.5,849,heating issue sometimes
+2026-02-10,Type-C Braided Cable,Cables,249,95,45,5,4.0,219,charging speed good
+2026-02-10,Laptop Stand,Laptop Accessories,699,410,22,0,4.7,749,good for work from home
+2026-02-10,Car Charger,Car Accessories,499,290,15,1,3.3,399,slow charging
+2026-02-10,Bike Mobile Holder,Mobile Accessories,349,150,26,1,4.2,299,useful for delivery riders
+2026-02-10,USB Hub 4 Port,Laptop Accessories,799,480,28,3,4.1,849,works with laptop
+2026-02-10,Wireless Charger,Chargers,1199,760,28,3,3.8,1099,slow charging
+2026-02-10,HDMI Cable,Cables,399,160,32,1,4.3,349,good quality cable
+2026-02-11,65W Fast Charger,Chargers,899,520,38,1,4.5,849,good build quality
+2026-02-11,Type-C Braided Cable,Cables,249,95,47,6,4.0,219,stopped working after few days
+2026-02-11,Laptop Stand,Laptop Accessories,699,410,24,0,4.7,749,premium quality
+2026-02-11,Car Charger,Car Accessories,499,290,17,2,3.3,399,not worth price
+2026-02-11,Bike Mobile Holder,Mobile Accessories,349,150,28,1,4.2,299,plastic quality okay
+2026-02-11,USB Hub 4 Port,Laptop Accessories,799,480,30,3,4.1,849,slight heating
+2026-02-11,Wireless Charger,Chargers,1199,760,30,3,3.8,1099,phone heats
+2026-02-11,HDMI Cable,Cables,399,160,34,1,4.3,349,value for money
+2026-02-12,65W Fast Charger,Chargers,899,520,40,1,4.5,849,fast charging is excellent
+2026-02-12,Type-C Braided Cable,Cables,249,95,49,6,4.0,219,durable cable
+2026-02-12,Laptop Stand,Laptop Accessories,699,410,26,1,4.7,749,very sturdy
+2026-02-12,Car Charger,Car Accessories,499,290,19,2,3.3,399,heating issue
+2026-02-12,Bike Mobile Holder,Mobile Accessories,349,150,30,1,4.2,299,good grip
+2026-02-12,USB Hub 4 Port,Laptop Accessories,799,480,32,4,4.1,849,useful product
+2026-02-12,Wireless Charger,Chargers,1199,760,32,4,3.8,1099,looks premium
+2026-02-12,HDMI Cable,Cables,399,160,36,1,4.3,349,clear display
+2026-02-13,65W Fast Charger,Chargers,899,520,42,1,4.5,849,heating issue sometimes
+2026-02-13,Type-C Braided Cable,Cables,249,95,51,6,4.0,219,charging speed good
+2026-02-13,Laptop Stand,Laptop Accessories,699,410,28,1,4.7,749,good for work from home
+2026-02-13,Car Charger,Car Accessories,499,290,21,2,3.3,399,slow charging
+2026-02-13,Bike Mobile Holder,Mobile Accessories,349,150,32,1,4.2,299,useful for delivery riders
+2026-02-13,USB Hub 4 Port,Laptop Accessories,799,480,34,4,4.1,849,works with laptop
+2026-02-13,Wireless Charger,Chargers,1199,760,34,4,3.8,1099,slow charging
+2026-02-13,HDMI Cable,Cables,399,160,38,1,4.3,349,good quality cable
+2026-02-14,65W Fast Charger,Chargers,899,520,44,1,4.5,849,good build quality
+2026-02-14,Type-C Braided Cable,Cables,249,95,53,6,4.0,219,stopped working after few days
+2026-02-14,Laptop Stand,Laptop Accessories,699,410,30,1,4.7,749,premium quality
+2026-02-14,Car Charger,Car Accessories,499,290,23,2,3.3,399,not worth price
+2026-02-14,Bike Mobile Holder,Mobile Accessories,349,150,34,1,4.2,299,plastic quality okay
+2026-02-14,USB Hub 4 Port,Laptop Accessories,799,480,36,4,4.1,849,slight heating
+2026-02-14,Wireless Charger,Chargers,1199,760,36,4,3.8,1099,phone heats
+2026-02-14,HDMI Cable,Cables,399,160,40,1,4.3,349,value for money
+2026-02-15,65W Fast Charger,Chargers,899,520,46,1,4.5,849,fast charging is excellent
+2026-02-15,Type-C Braided Cable,Cables,249,95,55,7,4.0,219,durable cable
+2026-02-15,Laptop Stand,Laptop Accessories,699,410,32,1,4.7,749,very sturdy
+2026-02-15,Car Charger,Car Accessories,499,290,25,3,3.3,399,heating issue
+2026-02-15,Bike Mobile Holder,Mobile Accessories,349,150,36,1,4.2,299,good grip
+2026-02-15,USB Hub 4 Port,Laptop Accessories,799,480,38,4,4.1,849,useful product
+2026-02-15,Wireless Charger,Chargers,1199,760,38,4,3.8,1099,looks premium
+2026-02-15,HDMI Cable,Cables,399,160,42,1,4.3,349,clear display
+2026-02-16,65W Fast Charger,Chargers,899,520,48,1,4.5,849,heating issue sometimes
+2026-02-16,Type-C Braided Cable,Cables,249,95,57,7,4.0,219,charging speed good
+2026-02-16,Laptop Stand,Laptop Accessories,699,410,34,1,4.7,749,good for work from home
+2026-02-16,Car Charger,Car Accessories,499,290,27,3,3.3,399,slow charging
+2026-02-16,Bike Mobile Holder,Mobile Accessories,349,150,38,1,4.2,299,useful for delivery riders
+2026-02-16,USB Hub 4 Port,Laptop Accessories,799,480,40,5,4.1,849,works with laptop
+2026-02-16,Wireless Charger,Chargers,1199,760,40,5,3.8,1099,slow charging
+2026-02-16,HDMI Cable,Cables,399,160,44,1,4.3,349,good quality cable
+2026-02-17,65W Fast Charger,Chargers,899,520,50,2,4.5,849,good build quality
+2026-02-17,Type-C Braided Cable,Cables,249,95,59,7,4.0,219,stopped working after few days
+2026-02-17,Laptop Stand,Laptop Accessories,699,410,36,1,4.7,749,premium quality
+2026-02-17,Car Charger,Car Accessories,499,290,29,3,3.3,399,not worth price
+2026-02-17,Bike Mobile Holder,Mobile Accessories,349,150,40,1,4.2,299,plastic quality okay
+2026-02-17,USB Hub 4 Port,Laptop Accessories,799,480,42,5,4.1,849,slight heating
+2026-02-17,Wireless Charger,Chargers,1199,760,42,5,3.8,1099,phone heats
+2026-02-17,HDMI Cable,Cables,399,160,46,1,4.3,349,value for money
+2026-02-18,65W Fast Charger,Chargers,899,520,52,2,4.5,849,fast charging is excellent
+2026-02-18,Type-C Braided Cable,Cables,249,95,61,7,4.0,219,durable cable
+2026-02-18,Laptop Stand,Laptop Accessories,699,410,38,1,4.7,749,very sturdy
+2026-02-18,Car Charger,Car Accessories,499,290,31,4,3.3,399,heating issue
+2026-02-18,Bike Mobile Holder,Mobile Accessories,349,150,42,1,4.2,299,good grip
+2026-02-18,USB Hub 4 Port,Laptop Accessories,799,480,44,5,4.1,849,useful product
+2026-02-18,Wireless Charger,Chargers,1199,760,44,5,3.8,1099,looks premium
+2026-02-18,HDMI Cable,Cables,399,160,48,1,4.3,349,clear display
+2026-02-19,65W Fast Charger,Chargers,899,520,54,2,4.5,849,heating issue sometimes
+2026-02-19,Type-C Braided Cable,Cables,249,95,63,8,4.0,219,charging speed good
+2026-02-19,Laptop Stand,Laptop Accessories,699,410,40,1,4.7,749,good for work from home
+2026-02-19,Car Charger,Car Accessories,499,290,33,4,3.3,399,slow charging
+2026-02-19,Bike Mobile Holder,Mobile Accessories,349,150,44,1,4.2,299,useful for delivery riders
+2026-02-19,USB Hub 4 Port,Laptop Accessories,799,480,46,5,4.1,849,works with laptop
+2026-02-19,Wireless Charger,Chargers,1199,760,46,5,3.8,1099,slow charging
+2026-02-19,HDMI Cable,Cables,399,160,50,2,4.3,349,good quality cable
+2026-02-20,65W Fast Charger,Chargers,899,520,36,1,4.5,849,good build quality
+2026-02-20,Type-C Braided Cable,Cables,249,95,45,5,4.0,219,stopped working after few days
+2026-02-20,Laptop Stand,Laptop Accessories,699,410,22,0,4.7,749,premium quality
+2026-02-20,Car Charger,Car Accessories,499,290,15,1,3.3,399,not worth price
+2026-02-20,Bike Mobile Holder,Mobile Accessories,349,150,26,1,4.2,299,plastic quality okay
+2026-02-20,USB Hub 4 Port,Laptop Accessories,799,480,28,3,4.1,849,slight heating
+2026-02-20,Wireless Charger,Chargers,1199,760,28,3,3.8,1099,phone heats
+2026-02-20,HDMI Cable,Cables,399,160,32,1,4.3,349,value for money
+2026-02-21,65W Fast Charger,Chargers,899,520,38,1,4.5,849,fast charging is excellent
+2026-02-21,Type-C Braided Cable,Cables,249,95,47,6,4.0,219,durable cable
+2026-02-21,Laptop Stand,Laptop Accessories,699,410,24,0,4.7,749,very sturdy
+2026-02-21,Car Charger,Car Accessories,499,290,17,2,3.3,399,heating issue
+2026-02-21,Bike Mobile Holder,Mobile Accessories,349,150,28,1,4.2,299,good grip
+2026-02-21,USB Hub 4 Port,Laptop Accessories,799,480,30,3,4.1,849,useful product
+2026-02-21,Wireless Charger,Chargers,1199,760,30,3,3.8,1099,looks premium
+2026-02-21,HDMI Cable,Cables,399,160,34,1,4.3,349,clear display
+2026-02-22,65W Fast Charger,Chargers,899,520,40,1,4.5,849,heating issue sometimes
+2026-02-22,Type-C Braided Cable,Cables,249,95,49,6,4.0,219,charging speed good
+2026-02-22,Laptop Stand,Laptop Accessories,699,410,26,1,4.7,749,good for work from home
+2026-02-22,Car Charger,Car Accessories,499,290,19,2,3.3,399,slow charging
+2026-02-22,Bike Mobile Holder,Mobile Accessories,349,150,30,1,4.2,299,useful for delivery riders
+2026-02-22,USB Hub 4 Port,Laptop Accessories,799,480,32,4,4.1,849,works with laptop
+2026-02-22,Wireless Charger,Chargers,1199,760,32,4,3.8,1099,slow charging
+2026-02-22,HDMI Cable,Cables,399,160,36,1,4.3,349,good quality cable
+2026-02-23,65W Fast Charger,Chargers,899,520,42,1,4.5,849,good build quality
+2026-02-23,Type-C Braided Cable,Cables,249,95,51,6,4.0,219,stopped working after few days
+2026-02-23,Laptop Stand,Laptop Accessories,699,410,28,1,4.7,749,premium quality
+2026-02-23,Car Charger,Car Accessories,499,290,21,2,3.3,399,not worth price
+2026-02-23,Bike Mobile Holder,Mobile Accessories,349,150,32,1,4.2,299,plastic quality okay
+2026-02-23,USB Hub 4 Port,Laptop Accessories,799,480,34,4,4.1,849,slight heating
+2026-02-23,Wireless Charger,Chargers,1199,760,34,4,3.8,1099,phone heats
+2026-02-23,HDMI Cable,Cables,399,160,38,1,4.3,349,value for money
+2026-02-24,65W Fast Charger,Chargers,899,520,44,1,4.5,849,fast charging is excellent
+2026-02-24,Type-C Braided Cable,Cables,249,95,53,6,4.0,219,durable cable
+2026-02-24,Laptop Stand,Laptop Accessories,699,410,30,1,4.7,749,very sturdy
+2026-02-24,Car Charger,Car Accessories,499,290,23,2,3.3,399,heating issue
+2026-02-24,Bike Mobile Holder,Mobile Accessories,349,150,34,1,4.2,299,good grip
+2026-02-24,USB Hub 4 Port,Laptop Accessories,799,480,36,4,4.1,849,useful product
+2026-02-24,Wireless Charger,Chargers,1199,760,36,4,3.8,1099,looks premium
+2026-02-24,HDMI Cable,Cables,399,160,40,1,4.3,349,clear display
+2026-02-25,65W Fast Charger,Chargers,899,520,46,1,4.5,849,heating issue sometimes
+2026-02-25,Type-C Braided Cable,Cables,249,95,55,7,4.0,219,charging speed good
+2026-02-25,Laptop Stand,Laptop Accessories,699,410,32,1,4.7,749,good for work from home
+2026-02-25,Car Charger,Car Accessories,499,290,25,3,3.3,399,slow charging
+2026-02-25,Bike Mobile Holder,Mobile Accessories,349,150,36,1,4.2,299,useful for delivery riders
+2026-02-25,USB Hub 4 Port,Laptop Accessories,799,480,38,4,4.1,849,works with laptop
+2026-02-25,Wireless Charger,Chargers,1199,760,38,4,3.8,1099,slow charging
+2026-02-25,HDMI Cable,Cables,399,160,42,1,4.3,349,good quality cable
+2026-02-26,65W Fast Charger,Chargers,899,520,48,1,4.5,849,good build quality
+2026-02-26,Type-C Braided Cable,Cables,249,95,57,7,4.0,219,stopped working after few days
+2026-02-26,Laptop Stand,Laptop Accessories,699,410,34,1,4.7,749,premium quality
+2026-02-26,Car Charger,Car Accessories,499,290,27,3,3.3,399,not worth price
+2026-02-26,Bike Mobile Holder,Mobile Accessories,349,150,38,1,4.2,299,plastic quality okay
+2026-02-26,USB Hub 4 Port,Laptop Accessories,799,480,40,5,4.1,849,slight heating
+2026-02-26,Wireless Charger,Chargers,1199,760,40,5,3.8,1099,phone heats
+2026-02-26,HDMI Cable,Cables,399,160,44,1,4.3,349,value for money
+2026-02-27,65W Fast Charger,Chargers,899,520,50,2,4.5,849,fast charging is excellent
+2026-02-27,Type-C Braided Cable,Cables,249,95,59,7,4.0,219,durable cable
+2026-02-27,Laptop Stand,Laptop Accessories,699,410,36,1,4.7,749,very sturdy
+2026-02-27,Car Charger,Car Accessories,499,290,29,3,3.3,399,heating issue
+2026-02-27,Bike Mobile Holder,Mobile Accessories,349,150,40,1,4.2,299,good grip
+2026-02-27,USB Hub 4 Port,Laptop Accessories,799,480,42,5,4.1,849,useful product
+2026-02-27,Wireless Charger,Chargers,1199,760,42,5,3.8,1099,looks premium
+2026-02-27,HDMI Cable,Cables,399,160,46,1,4.3,349,clear display
+2026-02-28,65W Fast Charger,Chargers,899,520,52,2,4.5,849,heating issue sometimes
+2026-02-28,Type-C Braided Cable,Cables,249,95,61,7,4.0,219,charging speed good
+2026-02-28,Laptop Stand,Laptop Accessories,699,410,38,1,4.7,749,good for work from home
+2026-02-28,Car Charger,Car Accessories,499,290,31,4,3.3,399,slow charging
+2026-02-28,Bike Mobile Holder,Mobile Accessories,349,150,42,1,4.2,299,useful for delivery riders
+2026-02-28,USB Hub 4 Port,Laptop Accessories,799,480,44,5,4.1,849,works with laptop
+2026-02-28,Wireless Charger,Chargers,1199,760,44,5,3.8,1099,slow charging
+2026-02-28,HDMI Cable,Cables,399,160,48,1,4.3,349,good quality cable
+2026-03-01,65W Fast Charger,Chargers,899,520,54,2,4.5,849,good build quality
+2026-03-01,Type-C Braided Cable,Cables,249,95,63,8,4.0,219,stopped working after few days
+2026-03-01,Laptop Stand,Laptop Accessories,699,410,40,1,4.7,749,premium quality
+2026-03-01,Car Charger,Car Accessories,499,290,33,4,3.3,399,not worth price
+2026-03-01,Bike Mobile Holder,Mobile Accessories,349,150,44,1,4.2,299,plastic quality okay
+2026-03-01,USB Hub 4 Port,Laptop Accessories,799,480,46,5,4.1,849,slight heating
+2026-03-01,Wireless Charger,Chargers,1199,760,46,5,3.8,1099,phone heats
+2026-03-01,HDMI Cable,Cables,399,160,50,2,4.3,349,value for money

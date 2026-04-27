@@ -32,11 +32,5 @@ Date, Product, Category, Selling_Price, Cost_Price, Units_Sold, Units_Returned, 
 ## Optional CSV column
 Review_Text
 
-## How to run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
-## Interview explanation
-I built this as a business automation tool for an electronics e-commerce company. The user can upload product data and the app automatically generates product research metrics, competitor insights, review analysis and recommendations.
+

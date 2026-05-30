@@ -146,6 +146,11 @@ actual_landed_cost = base_inr + duty_amount + size_cost
 
 difference = target_landed_cost - actual_landed_cost
 
+if actual_landed_cost > 0:
+    actual_profit_margin = ((after_gst_remove / actual_landed_cost) - 1) * 100
+else:
+    actual_profit_margin = 0
+
 max_rmb = 0
 if rmb_rate > 0:
     max_rmb = max((target_landed_cost - size_cost) / ((1 + duty_percent / 100) * rmb_rate), 0)
@@ -156,12 +161,13 @@ if rmb_rate > 0:
 st.markdown("---")
 st.subheader(txt("Final Result", "Final result", is_hinglish))
 
-r1, r2, r3, r4 = st.columns(4)
+r1, r2, r3, r4, r5 = st.columns(5)
 
 r1.metric(txt("Target Cost", "Target cost", is_hinglish), f"₹{target_landed_cost:.2f}")
 r2.metric(txt("Actual Cost", "Actual cost", is_hinglish), f"₹{actual_landed_cost:.2f}")
 r3.metric(txt("Difference", "Difference", is_hinglish), f"₹{difference:.2f}")
 r4.metric(txt("Max RMB Deal", "Max RMB deal", is_hinglish), f"¥{max_rmb:.2f}")
+r5.metric(txt("Actual Margin", "Actual margin", is_hinglish), f"{actual_profit_margin:.2f}%")
 
 if actual_landed_cost <= target_landed_cost:
     st.success(txt(
@@ -173,6 +179,19 @@ else:
     st.error(txt(
         "❌ Not workable yet: Negotiate with supplier.",
         "❌ Abhi workable nahi: Supplier se negotiate karo.",
+        is_hinglish
+    ))
+
+if actual_profit_margin >= profit_percent:
+    st.success(txt(
+        f"✅ Required margin is achieved. Required: {profit_percent:.2f}%, Actual: {actual_profit_margin:.2f}%",
+        f"✅ Required margin achieve ho raha hai. Required: {profit_percent:.2f}%, Actual: {actual_profit_margin:.2f}%",
+        is_hinglish
+    ))
+else:
+    st.warning(txt(
+        f"⚠️ Required margin is not achieved. Required: {profit_percent:.2f}%, Actual: {actual_profit_margin:.2f}%",
+        f"⚠️ Required margin achieve nahi ho raha. Required: {profit_percent:.2f}%, Actual: {actual_profit_margin:.2f}%",
         is_hinglish
     ))
 
@@ -188,6 +207,7 @@ with st.expander(txt("Show Calculation Breakdown", "Calculation breakdown dekho"
         st.write(f"Clicktech Slab = {clicktech_margin}%")
         st.write(f"After Clicktech = ₹{clicktech_after_margin:.2f}")
         st.write(f"After GST Remove = ₹{after_gst_remove:.2f}")
+        st.write(f"Required Profit = {profit_percent:.2f}%")
         st.write(f"Target Cost = ₹{target_landed_cost:.2f}")
 
     with b2:
@@ -198,6 +218,7 @@ with st.expander(txt("Show Calculation Breakdown", "Calculation breakdown dekho"
         st.write(f"Duty {duty_percent}% = ₹{duty_amount:.2f}")
         st.write(f"Size Cost = ₹{size_cost:.2f}")
         st.write(f"Actual Cost = ₹{actual_landed_cost:.2f}")
+        st.write(f"Actual Profit Margin = {actual_profit_margin:.2f}%")
 
 st.caption(txt(
     "Rule: Actual Cost should be less than or equal to Target Cost.",

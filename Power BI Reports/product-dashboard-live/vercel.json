@@ -1,6 +1,2 @@
-{
-  "version": 2,
-  "functions": {
-    "api/products.js": { "runtime": "nodejs20.x" }
-  }
-}
+
+{}
